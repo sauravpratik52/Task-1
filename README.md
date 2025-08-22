@@ -21,6 +21,7 @@ Hosted on GitHub Pages (or any hosting platform)
 portfolio/ │── index.html # Main HTML file │── style.css # Internal CSS (can be externalized later) │── images/ # Profile & project images │── resume.pdf # Downloadable resume │── README.md # Project documentation
 
 🖥 Watch my porfolio here :[https://github.com/sauravpratik52/Task-1]
+
 Live at[https://sauravpratik52.github.io/Task-1/]
 
 📬 Contact
