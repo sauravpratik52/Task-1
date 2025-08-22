@@ -22,7 +22,6 @@ portfolio/ │── index.html # Main HTML file │── style.css # Internal 
 
 🖥 Watch my porfolio here :[https://github.com/sauravpratik52/Task-1]
 
-Live at[https://sauravpratik52.github.io/Task-1/]
 
 📬 Contact
 
